@@ -1,0 +1,5 @@
+Bonjour, comment ça va?  # Французский
+Hello, how are you?       # Английский
+Hola, ¿cómo estás?        # Испанский
+Ciao, come stai?          # Итальянский
+Привет, как дела?         # Русский
