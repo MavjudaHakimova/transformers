@@ -11,14 +11,14 @@
 1. Склонируйте репозиторий:
 
    ```bash
-   git clone <[URL_вашего_репозитория](https://github.com/MavjudaHakimova/transformers.git)>
-   cd transformer_language_classifier
+   git clone https://github.com/MavjudaHakimova/transformers.git)
+   cd transformers
 
 2. Постройте Docker-образ:
 ```
-docker build -t transformer_language_classifier .
+docker build -t transformers .
 ```
 Запустите контейнер:
 ```
-docker run --rm transformer_language_classifier
+docker run --rm transformers
 ```
